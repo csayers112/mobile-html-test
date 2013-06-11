@@ -3,6 +3,8 @@ mobile-html-test
 
 ####Trellist, Inc. mobile HTML5/CSS3 evaluation for developer candidates####
 
+To begin, clone this repository and then create a new branch from the master and name it _LastName_FirstName_
+
 **Objectives:**
 
 1. Create a fluid HTML5/CSS3 layout using the included PSD
